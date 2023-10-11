@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanEnginCamurdan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c#,MsSQL,html,css
+- 🌱 I’m currently learning c#,MsSQL,html,css,JavaScript,PHP
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me.. hcamurdan1@gmail.com
 
